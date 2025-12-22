@@ -1,0 +1,17 @@
+gfs-ernaehrung/
+│
+├── index.html
+├── bad-food.html
+├── effects.html
+├── teens.html
+├── healthy.html
+├── sources.html
+│
+├── style.css
+│
+└── images/
+    ├── fastfood.jpg
+    ├── body.jpg
+    ├── heart.jpg
+    ├── brain.jpg
+    ├── vegetables.jpg
