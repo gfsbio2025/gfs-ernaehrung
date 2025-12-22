@@ -3,15 +3,15 @@ gfs-ernaehrung/
 ├── index.html
 ├── bad-food.html
 ├── effects.html
-├── teens.html
-├── healthy.html
 ├── sources.html
 │
 ├── style.css
 │
 └── images/
     ├── fastfood.jpg
-    ├── body.jpg
-    ├── heart.jpg
-    ├── brain.jpg
-    ├── vegetables.jpg
+    ├── junkfood.jpg
+    ├── sugar.jpg
+    ├── overweight.jpg
+    ├── body-effects.jpg
+    ├── eating-disorder.jpg
+    ├── nutrition-pyramid.jpg
