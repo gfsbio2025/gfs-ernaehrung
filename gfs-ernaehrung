@@ -1,17 +1,15 @@
-gfs-ernaehrung/
-│
+/
 ├── index.html
-├── bad-food.html
+├── food.html
+├── drinks.html
 ├── effects.html
+├── eating-disorder.html
 ├── sources.html
-│
 ├── style.css
-│
 └── images/
-    ├── fastfood.jpg
     ├── junkfood.jpg
     ├── sugar.jpg
+    ├── fastfood.jpg
     ├── overweight.jpg
     ├── body-effects.jpg
     ├── eating-disorder.jpg
-    ├── nutrition-pyramid.jpg
