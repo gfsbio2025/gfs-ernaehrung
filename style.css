@@ -51,3 +51,10 @@ footer {
     background-color: #e0e0e0;
     margin-top: 20px;
 }
+
+img {
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
