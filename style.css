@@ -39,31 +39,11 @@ main {
     background-color: white;
 }
 
-img {
-    max-width: 100%;
-    margin: 20px 0;
-    border-radius: 8px;
-}
-
 footer {
     text-align: center;
     padding: 10px;
     background-color: #e0e0e0;
     margin-top: 20px;
-}
-
-img {
-    max-width: 60%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-}
-
-img {
-    max-width: 50%;
-    height: auto;
-    display: block;
-    margin: 15px auto;
 }
 
 /* ОБЩИЙ размер для всех картинок */
@@ -74,17 +54,8 @@ img {
     margin: 15px auto;
 }
 
-/* START – первая страница (увеличить) */
-img[src*="start-food.jpg"] {
-    max-width: 80%;
+/* START – главная картинка (очень большая) */
+img[src$="start-food.jpg"] {
+    max-width: 85%;
 }
 
-/* GETRÄNKE – напитки (уменьшить) */
-img[src*="sugar"] {
-    max-width: 40%;
-}
-
-/* KINDER / JUGENDLICHE – увеличить */
-img[src*="teen-food"] {
-    max-width: 60%;
-}
