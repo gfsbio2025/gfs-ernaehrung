@@ -76,7 +76,7 @@ img {
 
 /* START – первая страница (увеличить) */
 img[src*="start-food"] {
-    max-width: 65%;
+    max-width: 80%;
 }
 
 /* GETRÄNKE – напитки (уменьшить) */
