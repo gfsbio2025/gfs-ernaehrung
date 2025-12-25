@@ -54,8 +54,17 @@ img {
     margin: 15px auto;
 }
 
-/* START – главная картинка (очень большая) */
-img[src$="start-food.jpg"] {
-    max-width: 85%;
+/* START – первая страница (увеличить) */
+img[src*="start-food"] {
+    max-width: 65%;
 }
 
+/* GETRÄNKE – напитки (уменьшить) */
+img[src*="sugar"] {
+    max-width: 40%;
+}
+
+/* KINDER / JUGENDLICHE – увеличить */
+img[src*="teen-food"] {
+    max-width: 60%;
+}
