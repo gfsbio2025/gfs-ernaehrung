@@ -75,7 +75,7 @@ img {
 }
 
 /* START – первая страница (увеличить) */
-img[src*="start-food"] {
+img[src*="start-food.jpg"] {
     max-width: 80%;
 }
 
